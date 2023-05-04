@@ -1,4 +1,4 @@
-Customer Segmentation Using K-Means Clustering
+#Customer Segmentation Using K-Means Clustering
 Overview
 This project demonstrates the use of the k-Means clustering algorithm to segment customers based on their purchasing behavior. The dataset used in this project is the "Mall Customers" dataset, which includes information about customers such as age, gender, annual income, and spending score. The project aims to identify distinct customer segments to help create targeted marketing strategies.
 
